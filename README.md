@@ -21,7 +21,7 @@
 <h3 align="center">✦ Explore this project</h3>
 <table align="center"><tbody><tr><td align="center"><a href="#readme-overview"><strong>Overview</strong></a></td><td align="center"><a href="#readme-how-it-works"><strong>How It Works</strong></a></td></tr><tr><td align="center"><a href="#readme-setup"><strong>Setup</strong></a></td><td align="center"><a href="#readme-available-tools"><strong>Available Tools</strong></a></td></tr><tr><td align="center"><a href="#readme-the-export-timeout-fix"><strong>The Export Timeout Fix</strong></a></td><td align="center"><a href="#readme-configuration"><strong>Configuration</strong></a></td></tr><tr><td align="center"><a href="#readme-painting-approach"><strong>Painting Approach</strong></a></td><td align="center"><a href="#readme-license"><strong>License</strong></a></td></tr></tbody></table>
 <h4 align="center">Project shortcuts</h4>
-<table align="center"><tbody><tr><td align="center"><a href="server.py"><strong>server.py</strong></a></td><td align="center"><a href="requirements.txt"><strong>requirements.txt</strong></a></td></tr><tr><td align="center"><a href="krita-plugin"><strong>krita-plugin</strong></a></td><td align="center"><a href="LICENSE"><strong>License</strong></a></td></tr></tbody></table>
+<table align="center"><tbody><tr><td align="center"><a href="server.py"><strong>server.py</strong></a></td><td align="center"><a href="requirements.txt"><strong>requirements.txt</strong></a></td></tr><tr><td align="center"><a href="https://github.com/raiinman/krita-mcp/tree/master/krita-plugin"><strong>krita-plugin</strong></a></td><td align="center"><a href="LICENSE"><strong>License</strong></a></td></tr></tbody></table>
 <!-- project-index:end -->
 
 <a name="readme-overview"></a>
